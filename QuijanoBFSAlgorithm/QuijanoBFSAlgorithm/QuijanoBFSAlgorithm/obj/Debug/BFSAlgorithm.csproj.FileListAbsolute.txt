@@ -1,0 +1,11 @@
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\bin\Debug\PathfindingVisualizer.exe.config
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\bin\Debug\PathfindingVisualizer.exe
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\bin\Debug\PathfindingVisualizer.pdb
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\obj\Debug\BFSAlgorithm.csproj.AssemblyReference.cache
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\obj\Debug\BFSAlgorithm.csproj.SuggestedBindingRedirects.cache
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\obj\Debug\PathfindingVisualizer.Form1.resources
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\obj\Debug\PathfindingVisualizer.Properties.Resources.resources
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\obj\Debug\BFSAlgorithm.csproj.GenerateResource.cache
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\obj\Debug\BFSAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\obj\Debug\PathfindingVisualizer.exe
+C:\Users\quija\OneDrive\Desktop\3rd Year\First sem\3rd Year First Sem Second Cluster\Intelligent Systems\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\QuijanoBFSAlgorithm\obj\Debug\PathfindingVisualizer.pdb
